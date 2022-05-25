@@ -1,0 +1,12 @@
+site_name: Mini Projects
+nav:
+  - Home: index.md
+  - React:
+      - Start Here: react/resources.md
+      - Multiplication Tables: react/1-multiplication-tables.md
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages: ['lua', 'javascript', 'python']
+extra_css:
+  - css/style.css
