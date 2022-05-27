@@ -4,6 +4,9 @@ nav:
   - React:
       - Start Here: react/resources.md
       - Multiplication Tables: react/1-multiplication-tables.md
+  - Svelte:
+      - Start Here: svelte/resources.md
+      - Multiplication Tables: svelte/1-multiplication-tables.md
 theme:
   name: readthedocs
   highlightjs: true
