@@ -11,6 +11,8 @@ These are the resources that me and my students have found helpful.  If you are 
 
 - [Svelte Tutorial](https://svelte.dev/tutorial/basics)
 - [SvelteMastery Youtube Channel](https://www.youtube.com/c/SvelteMastery)
+- [SpinSpire](https://www.youtube.com/c/spinspire)
+- [JSimplified](https://www.youtube.com/c/JSimplified)
 
 ## Svelte Kit Net Ninja
 
@@ -23,7 +25,3 @@ These are the resources that me and my students have found helpful.  If you are 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3TVy6GdtNuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## TODO
-
-- Add SpinSpire
-- Add JsSimplified
