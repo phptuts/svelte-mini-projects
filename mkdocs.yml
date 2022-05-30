@@ -9,6 +9,9 @@ nav:
       - Start Here: svelte/resources.md
       - Multiplication Tables: svelte/1-multiplication-tables.md
       - Color Picker: svelte/2-color-picker.md
+  - SwiftUI:
+      - Start Here: swiftui/resources.md
+      - Multiplication Tables: swiftui/1-multiplication-tables.md
 theme:
   name: readthedocs
   highlightjs: true
