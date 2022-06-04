@@ -5,6 +5,7 @@ nav:
       - Start Here: react/resources.md
       - Multiplication Tables: react/1-multiplication-tables.md
       - Color Picker: react/2-color-picker.md
+      - Move Div: react/3-move-div.md
   - Svelte:
       - Start Here: svelte/resources.md
       - Multiplication Tables: svelte/1-multiplication-tables.md
