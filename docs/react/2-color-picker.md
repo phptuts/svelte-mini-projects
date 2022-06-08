@@ -1,6 +1,6 @@
 # Color Picker
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5PXj7g4un3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbhkMSDKEyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Create a color picker with 2 components.  One component should contain the slider and the label.  The other component will be a div to display the color.  Use the useEffect how to make it so that the hex color value is create updates the div component.  
 
