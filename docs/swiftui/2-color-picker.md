@@ -2,7 +2,7 @@
 
 Create a color picker with 3 Slider that shows the hex value of the color, percentages of red, green and blue and the actual color in a SwiftUI Rectangle.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2P_B2Ux0e_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6udm-SVk39I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [Code](https://github.com/phptuts/ios-mini-projects/blob/main/ColorPicker/ColorPicker/ContentView.swift)
 
