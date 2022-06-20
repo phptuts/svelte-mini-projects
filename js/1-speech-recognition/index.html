@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../../img/favicon.ico">
-  <title>Start Here - Mini Projects</title>
+  <title>Speech Recognition - Mini Projects</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
   <link rel="stylesheet" href="../../css/theme.css" />
@@ -19,13 +19,13 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Start Here";
-    var mkdocs_page_input_path = "swiftui/resources.md";
+    var mkdocs_page_name = "Speech Recognition";
+    var mkdocs_page_input_path = "js/1-speech-recognition.md";
     var mkdocs_page_url = null;
   </script>
   
-  <script src="../../js/jquery-2.1.1.min.js" defer></script>
-  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="../jquery-2.1.1.min.js" defer></script>
+  <script src="../modernizr-2.8.3.min.js" defer></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/languages/lua.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/languages/javascript.min.js"></script>
@@ -56,10 +56,18 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">JS</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="" href="../../js/resources.md">Start Here</a>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="" href="../resources.md">Start Here</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../js/1-speech-recognition/">Speech Recognition</a>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Speech Recognition</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#code">Code</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#project">Project</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#help">Help</a>
+    </li>
+    </ul>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">React</span></p>
@@ -83,16 +91,12 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">SwiftUI</span></p>
-                <ul class="current">
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Start Here</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#100daysofswiftui">100DaysOfSwiftUI</a>
-    </li>
-    </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../swiftui/resources/">Start Here</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../1-multiplication-tables/">Multiplication Tables</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../swiftui/1-multiplication-tables/">Multiplication Tables</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../2-color-picker/">Color Picker</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../swiftui/2-color-picker/">Color Picker</a>
                     </li>
                 </ul>
       </div>
@@ -116,11 +120,11 @@
     
       
         
-          <li>SwiftUI &raquo;</li>
+          <li>JS &raquo;</li>
         
       
     
-    <li>Start Here</li>
+    <li>Speech Recognition</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -132,10 +136,17 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="react-mini-projects">React Mini Projects</h1>
-<p>Start here:</p>
-<h2 id="100daysofswiftui"><a href="https://www.hackingwithswift.com/100/swiftui/">100DaysOfSwiftUI</a></h2>
-<p>You can't go wrong with 100DaysOfSwiftUI. </p>
+                <h1 id="speech-recognition">Speech Recognition</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ovbRUC4HyBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>The goal of this challenge is to create a div with a button.  When you press the button, it should ask for permission to use your microphone.  Then you can say a color, and the div will change to that color.</p>
+<h2 id="code"><a href="https://codesandbox.io/s/word-control-color-challenge-noqr3c">Code</a></h2>
+<h2 id="project"><a href="https://noqr3c.csb.app/">Project</a></h2>
+<h2 id="help">Help</h2>
+<ul>
+<li><a href="https://discord.gg/Jwv7xaPRMS">Discord</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition">Speech Recognition API</a></li>
+</ul>
               
             </div>
           </div>
@@ -143,10 +154,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../1-multiplication-tables/" class="btn btn-neutral float-right" title="Multiplication Tables">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../../react/resources/" class="btn btn-neutral float-right" title="Start Here">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../../svelte/3-move-pixel/" class="btn btn-neutral" title="Move Pixel"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../.." class="btn btn-neutral" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -172,16 +183,16 @@
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../../svelte/3-move-pixel/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href="../.." style="color: #fcfcfc">&laquo; Previous</a></span>
     
     
-      <span><a href="../1-multiplication-tables/" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../../react/resources/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
     <script>var base_url = '../..';</script>
-    <script src="../../js/theme_extra.js" defer></script>
-    <script src="../../js/theme.js" defer></script>
+    <script src="../theme_extra.js" defer></script>
+    <script src="../theme.js" defer></script>
       <script src="../../search/main.js" defer></script>
     <script defer>
         window.onload = function () {
