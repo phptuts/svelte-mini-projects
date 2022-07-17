@@ -1,10 +1,10 @@
 site_name: Svelte Mini Projects
 nav:
-  - Start Here: resources.md
+  - Start Here: index.md
   - Multiplication Tables: 1-multiplication-tables.md
   - Color Picker: 2-color-picker.md
   - Move Pixel: 3-move-pixel.md
-  - Actions: 3-actions.md
+  - Actions: 4-actions.md
 theme:
   name: readthedocs
   highlightjs: true
